@@ -1,0 +1,10 @@
+setup.py
+devops_cli/__init__.py
+devops_cli/cmds.py
+devops_cli/devops_cli.py
+devops_cli.egg-info/PKG-INFO
+devops_cli.egg-info/SOURCES.txt
+devops_cli.egg-info/dependency_links.txt
+devops_cli.egg-info/entry_points.txt
+devops_cli.egg-info/requires.txt
+devops_cli.egg-info/top_level.txt

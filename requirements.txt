@@ -1,0 +1,7 @@
+click 
+psutil
+
+pytest
+black
+mypy
+pylint
